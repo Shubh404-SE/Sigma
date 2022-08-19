@@ -1,0 +1,30 @@
+body{
+    background-color: #EAF6F6;
+} 
+
+.front{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.title h1{
+    color: #66BFBF;
+    font-size: 10em;
+    font-family: 'Tangerine', serif;
+}
+
+.title h2{
+    color: #66BFBF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    position: relative;
+    bottom: 4.5em;
+    left: 10em;
+}
+
+#intro{
+    text-align: center;
+}
+#intro img{
+    border-radius: 100%;
+}
